@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="media-playlist-repeat.svg"
+   sodipodi:docname="tools-media-optical-erase.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -19,16 +19,16 @@
    style="enable-background:new"
    version="1.1"
    inkscape:version="0.91 r"
-   width="16.000196">
+   width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
      bordercolor="#666666"
      borderlayer="false"
      borderopacity="1"
-     inkscape:current-layer="layer12"
-     inkscape:cx="-1.5887276"
-     inkscape:cy="4.0539546"
+     inkscape:current-layer="layer10"
+     inkscape:cx="-103.52186"
+     inkscape:cy="-10.102537"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -37,10 +37,10 @@
      inkscape:object-paths="true"
      objecttolerance="10"
      pagecolor="#f7f7f7"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -62,7 +62,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="-4"
      inkscape:window-y="32"
-     inkscape:zoom="19.88">
+     inkscape:zoom="3.88">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -72,8 +72,8 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-24.0002"
-       originy="-336.00336"
+       originx="-144.0002"
+       originy="-356.00336"
        snapvisiblegridlinesonly="true"
        spacingx="0.25px"
        spacingy="0.25px"
@@ -104,31 +104,75 @@
          offset="0"
          style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         inkscape:collect="always"
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="status"
+     style="display:inline"
+     transform="translate(-385.0004,139.00336)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="devices"
+     style="display:inline;filter:url(#filter7554)"
+     transform="translate(-385.0004,139.00336)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 393.0002,-138 c -3.84231,0 -7,3.1577 -7,7 0,3.8423 3.15769,7 7,7 3.8423,0 7,-3.1577 7,-7 0,-3.8423 -3.1577,-7 -7,-7 z m 0,5 c 1.09865,0 2,0.90135 2,2 0,1.09864 -0.90135,2 -2,2 -1.09865,0 -2,-0.90136 -2,-2 0,-1.09865 0.90135,-2 2,-2 z"
+       id="path10465"
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:5.61250019;marker:none;enable-background:accumulate;opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="places"
+     style="display:inline"
+     transform="translate(-144.0002,-477.99664)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="mimetypes"
+     style="display:inline"
+     transform="translate(-385.0004,139.00336)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="translate(-385.0004,139.00336)" />
+  <g
+     inkscape:groupmode="layer"
+     id="g71291"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="translate(-385.0004,139.00336)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="categories"
+     style="display:inline"
+     transform="translate(-144.0002,-327.99664)" />
+  <g
+     inkscape:groupmode="layer"
+     id="g6058"
+     inkscape:label="apps"
+     style="display:inline"
+     transform="translate(-144.0002,-327.99664)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-265.0004,119.00336)">
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:7.5;marker:none;enable-background:accumulate"
-       id="rect4198"
-       width="16"
-       height="16"
-       x="265.00049"
-       y="-119.00336" />
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:6;marker:none;enable-background:accumulate"
-       id="rect3038"
-       width="16"
-       height="16"
-       x="265.00049"
-       y="-119.00336" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path2194-83"
-       d="m 269.82462,-117.57367 0,1.94726 -1.625,0 c -1.77778,0 -2.66602,0.001 -2.66602,2.06836 l 0,5.10938 c 0,2.06705 0.88824,2.06836 2.66602,2.06836 l 9.60156,0 c 1.77778,0 2.66602,-0.001 2.66602,-2.06836 l 0,-5.10938 c 0,-2.06705 -0.88824,-2.06836 -2.66602,-2.06836 l -1.0664,0 0,1.60157 0.5332,0 c 1.24444,0 1.59961,-2.6e-4 1.59961,1.0664 l 0,3.91016 c 0,1.06666 -0.35517,1.0664 -1.59961,1.0664 l -8.5332,0 c -1.24445,0 -1.60157,2.6e-4 -1.60157,-1.0664 l 0,-3.91016 c 0,-1.06666 0.36092,-0.96925 1.60157,-1.0664 l 1.08984,0 0,1.96679 c 0,0 2.61289,-1.13109 4.89844,-2.75976 0,0 0,-0.002 0,-0.002 0,0 -0.002,-0.002 -0.002,-0.002 0,0 0,-0.002 0,-0.002 0,0 -0.002,0 -0.002,0 -2.41096,-1.68061 -4.89453,-2.75 -4.89453,-2.75 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate;opacity:0.5" />
-  </g>
+     transform="translate(-385.0004,139.00336)" />
 </svg>
