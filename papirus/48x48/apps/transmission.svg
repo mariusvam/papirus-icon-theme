@@ -15,7 +15,7 @@
    width="48"
    version="1.0"
    inkscape:version="0.91 r"
-   sodipodi:docname="ktorrent2.svg">
+   sodipodi:docname="transmission.svg">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -42,7 +42,7 @@
      id="namedview55"
      showgrid="false"
      inkscape:zoom="4.64"
-     inkscape:cx="10.873159"
+     inkscape:cx="-31.691496"
      inkscape:cy="24.27436"
      inkscape:window-x="-4"
      inkscape:window-y="32"
@@ -734,7 +734,7 @@
        r="20"
        cy="24"
        cx="24"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#63b5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        id="path4230" />
     <path
        id="path4234"
