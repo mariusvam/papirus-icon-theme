@@ -14,7 +14,7 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="computer.svg">
   <metadata
      id="metadata57">
@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="844"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="12.239653"
-     inkscape:cx="29.963213"
+     inkscape:cx="-0.28443447"
      inkscape:cy="21.02997"
      inkscape:window-x="-4"
      inkscape:window-y="32"
@@ -1561,7 +1561,7 @@
      transform="matrix(0,-1,-1,0,0,0)" />
   <rect
      transform="matrix(0,-1,-1,0,0,0)"
-     style="fill:#5f7c8a;fill-opacity:1;stroke:none"
+     style="fill:#757575;fill-opacity:1;stroke:none"
      id="rect4203-7"
      width="31.999985"
      height="40"
@@ -1577,7 +1577,7 @@
      height="34"
      width="26"
      id="rect3282"
-     style="fill:#7f96a1;fill-opacity:1;stroke:none"
+     style="fill:#909090;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,-1,0,0,0)" />
   <path
      id="path4294"
