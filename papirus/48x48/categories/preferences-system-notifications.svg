@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="841"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="10.66"
-     inkscape:cx="27.467228"
+     inkscape:cx="-9.3995638"
      inkscape:cy="8.5894244"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -1507,12 +1507,6 @@
   <g
      transform="matrix(0.9047486,0,0,0.9047486,-220.03848,-0.23077627)"
      id="layer1-3" />
-  <path
-     sodipodi:nodetypes="sssscccsssss"
-     inkscape:connector-curvature="0"
-     id="path4079"
-     d="M 9.9999999,11.799999 C 8.892,11.799999 8,12.691999 8,13.799999 l 0,24 c 0,1.108 0.892,2 1.9999999,2 l 18.0000001,0 4,4 4,-4 6,0 c 1.108,0 2,-0.892 2,-2 l 0,-24 c 0,-1.108 -0.892,-2 -2,-2 z"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none" />
   <path
      style="opacity:1;fill:#394a53;fill-opacity:1;stroke:none"
      d="m 10,11 c -1.1079998,0 -1.9999998,0.892 -1.9999998,2 l 0,24 c 0,1.108 0.892,2 1.9999998,2 l 18,0 4,4 4,-4 6,0 c 1.108,0 2,-0.892 2,-2 l 0,-24 c 0,-1.108 -0.892,-2 -2,-2 z"
