@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-133.38462"
-     inkscape:cy="-79.93495"
+     inkscape:cx="0.64631719"
+     inkscape:cy="13.386861"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -62,7 +62,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="-4"
      inkscape:window-y="32"
-     inkscape:zoom="2.86">
+     inkscape:zoom="15.07">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -123,9 +123,9 @@
      transform="translate(-545.00041,395.01034)">
     <path
        inkscape:connector-curvature="0"
-       d="m 553.0002,-395 -6,1.99023 0,7 c 0,2.07164 1.57494,3.52182 2.9375,4.46875 1.36256,0.94693 3.0625,1.54102 3.0625,1.54102 0,0 1.70434,-0.61672 3.0625,-1.57227 1.35816,-0.95555 2.9375,-2.39317 2.9375,-4.4375 l 0,-7 -6,-1.99023 z m 0,2.10742 0,4.89258 4,0 0,1.99023 c 0,1.01427 -0.90506,1.97055 -2.08789,2.80274 -0.76991,0.54167 -1.42165,0.77276 -1.91211,0.97656 l 0,-5.76953 -4,0 0,-3.56641 4,-1.32617 z"
+       d="m 553.0002,-395.01034 -6,1.99023 0,7 c 0,2.07164 1.57494,3.52182 2.9375,4.46875 1.36256,0.94693 3.0625,1.54102 3.0625,1.54102 0,0 1.70434,-0.61672 3.0625,-1.57227 1.35816,-0.95555 2.9375,-2.39317 2.9375,-4.4375 l 0,-7 -6,-1.99023 z m 0,2.10742 0,4.89258 4,0 0,1.99023 c 0,1.01427 -0.90506,1.97055 -2.08789,2.80274 -0.76991,0.54167 -1.42165,0.77276 -1.91211,0.97656 l 0,-5.76953 -4,0 0,-3.56641 4,-1.32617 z"
        id="path7299"
-       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:0.99999999" />
+       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e74c3c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
