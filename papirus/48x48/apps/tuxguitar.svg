@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,9 +41,9 @@
      inkscape:window-height="842"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="13.388132"
-     inkscape:cy="19.84646"
+     inkscape:zoom="16.15"
+     inkscape:cx="17.542662"
+     inkscape:cy="22.32324"
      inkscape:window-x="-4"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -1598,6 +1598,12 @@
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.91641378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42857146;stroke-dasharray:none;stroke-opacity:1"
      rx="10"
      ry="11" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="path4618"
+     d="m 21,16.000001 6,0 C 26.519088,20.10857 24,24 24,24 c 0,0 -3,-4.618293 -3,-7.999999 z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42857146;stroke-dasharray:none;stroke-opacity:1" />
   <circle
      style="opacity:1;fill:#303030;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42857146;stroke-dasharray:none;stroke-opacity:1"
      id="path4629"
@@ -1672,6 +1678,69 @@
     <g
        id="g4591"
        style="fill:#006969;fill-opacity:1" />
+  </g>
+  <g
+     style="fill:#000000;fill-opacity:1;opacity:0.2"
+     transform="matrix(0.05164547,0.03028572,-0.02901375,0.05104239,19.644283,11.01573)"
+     id="g4580">
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4582">
+      <g
+         style="fill:#000000;fill-opacity:1"
+         id="g4584">
+        <path
+           style="fill:#000000;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 377.6,125.398 c 8.051,-7.326 18.943,-9.081 27.078,-4.883 l 1.56,-1.553 c 4.904,-12.028 13.757,-25.333 26.031,-37.604 12.283,-12.276 25.584,-21.135 37.606,-26.042 0,0 2.368,-2.369 5.298,-5.298 2.925,-2.93 1.154,-9.438 -3.96,-14.547 L 441.142,5.396 C 436.037,0.287 429.548,-1.51 426.66,1.381 l -5.238,5.236 c -4.889,12.062 -13.773,25.441 -26.116,37.784 -12.331,12.331 -25.708,21.219 -37.782,26.115 l -1.082,1.078 c 5.178,8.233 3.574,19.979 -4.168,28.487 l -80.781,80.303 c -3.494,-0.226 -9.117,-3.047 -16.635,-14.697 -13.442,-20.827 -44.812,-32.687 -70.648,12.13 -25.836,44.817 -4.408,52.227 -77.991,60.774 l 0.016,0.024 c -25.982,1.429 -50.592,11.36 -69.375,30.136 -44.54,44.544 -39.464,121.843 11.34,172.657 50.806,50.806 128.113,55.879 172.654,11.328 0.797,-0.797 1.557,-1.639 2.324,-2.46 l 0.014,0.032 c 0,0 0.293,-0.316 0.775,-0.866 3.573,-3.903 6.777,-8.026 9.636,-12.343 11.461,-16.27 27.822,-45.524 24.159,-76.081 -5.538,-46.129 37.694,-44.021 55.619,-55.623 17.921,-11.598 24.249,-21.607 24.77,-33.218 0,0 -21.352,15.028 -40.855,-4.476 -15.677,-15.678 -8.708,-42.391 -1.947,-56.529 L 377.6,125.398 Z"
+           id="path4586" />
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4588" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4590" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4592" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4594" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4596" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4598" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4600" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4602" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4604" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4606" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4608" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4610" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4612" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4614" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g4616" />
   </g>
   <g
      id="g4477-0"
