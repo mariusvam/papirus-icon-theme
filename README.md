@@ -9,3 +9,5 @@ cd /tmp
 git clone https://github.com/varlesh/papirus-icon-theme.git
 sudo cp -R /tmp/papirus-icon-theme/papirus /usr/share/icons/papirus
 ```
+Also you can install additional icons for some applications (Krusader, Amarok, tray applications).
+Please , explore directory /usr/share/icons/papirus/extra-icons
