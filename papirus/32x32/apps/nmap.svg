@@ -15,7 +15,7 @@
    width="32"
    version="1.0"
    inkscape:version="0.91 r"
-   sodipodi:docname="knemo.svg">
+   sodipodi:docname="nmap.svg">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3176,7 +3176,7 @@
      transform="matrix(0,-1,-1,0,0,0)" />
   <rect
      transform="matrix(0,-1,-1,0,0,0)"
-     style="fill:#02a8f3;fill-opacity:1;stroke:none"
+     style="fill:#af74e5;fill-opacity:1;stroke:none"
      id="rect4255"
      width="28"
      height="28"
