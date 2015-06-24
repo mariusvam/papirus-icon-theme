@@ -15,7 +15,7 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="soundkonverter.svg">
   <metadata
      id="metadata57">
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="844"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="2.3086076"
+     inkscape:zoom="10.66"
+     inkscape:cx="12.37117"
      inkscape:cy="19.84646"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817"
      showguides="false" />
@@ -2758,11 +2758,6 @@
        x="1559.9558"
        y="-1450.4467"
        id="tspan4089-7-2-9-9-28-5" /></text>
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 4,4 C 2.892,4 2,4.892 2,6 l 0,36 c 0,1.108 0.892,2 2,2 l 25.380859,0 A 12,12 0 0 0 36,46 12,12 0 0 0 48,34 12,12 0 0 0 42,23.619141 L 42,6 C 42,4.892 41.108,4 40,4 L 4,4 Z"
-     id="rect3289" />
   <rect
      transform="matrix(0,-1,-1,0,0,0)"
      style="fill:#81d547;fill-opacity:1;stroke:none"
@@ -2774,13 +2769,17 @@
      rx="2"
      ry="2" />
   <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="M 2 40 L 2 41 C 2 42.108 2.892 43 4 43 L 40 43 C 41.108 43 42 42.108 42 41 L 42 40 C 42 41.108 41.108 42 40 42 L 4 42 C 2.892 42 2 41.108 2 40 z "
+     id="rect4712" />
+  <path
      id="path4068"
      d="M 2,6 2,5 C 2,3.892 2.892,3 4,3 l 36,0 c 1.108,0 2,0.892 2,2 l 0,1 C 42,4.892 41.108,4 40,4 L 4,4 C 2.892,4 2,4.892 2,6 Z"
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 40,23 c 1.108,0 2,-0.892 2,-2 L 42,4 2,4 2,21 c 0,1.108 0.892,2 2,2 l 36,0 z"
+     d="m 40,4 c 1.108,0 2,0.892 2,2 L 42,23 2,23 2,6 C 2,4.892 2.892,4 4,4 l 36,0 z"
      id="path4009"
      inkscape:connector-curvature="0" />
   <path
@@ -2845,4 +2844,8 @@
      inkscape:label="actions"
      style="display:inline"
      transform="translate(-809.26049,415.85804)" />
+  <path
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new;opacity:0.3"
+     d="M 47.980469 32.40625 A 12 12 0 0 1 36 44 A 12 12 0 0 1 24.019531 32.59375 A 12 12 0 0 0 24 33 A 12 12 0 0 0 36 45 A 12 12 0 0 0 48 33 A 12 12 0 0 0 47.980469 32.40625 z "
+     id="circle4717" />
 </svg>

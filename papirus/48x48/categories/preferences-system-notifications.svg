@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="841"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="10.66"
-     inkscape:cx="-9.3995638"
-     inkscape:cy="8.5894244"
+     inkscape:cx="17.294559"
+     inkscape:cy="19.84646"
      inkscape:window-x="-4"
-     inkscape:window-y="33"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -1520,12 +1520,6 @@
      inkscape:connector-curvature="0" />
   <circle
      r="12"
-     cy="18"
-     cx="16"
-     id="path3235"
-     style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;enable-background:new" />
-  <circle
-     r="12"
      cy="17"
      cx="16"
      style="display:inline;fill:#4daaf5;fill-opacity:1;stroke:none;enable-background:new"
@@ -1535,4 +1529,12 @@
      d="M 15,9.9999998 15,20 l 2,0 0,-10.0000002 -2,0 z M 15,22 l 0,2 2,0 0,-2 -2,0 z"
      id="rect3228"
      inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 8 36 L 8 37 C 8 38.108 8.8920002 39 10 39 L 28 39 L 32 43 L 36 39 L 42 39 C 43.108 39 44 38.108 44 37 L 44 36 C 44 37.108 43.108 38 42 38 L 36 38 L 32 42 L 28 38 L 10 38 C 8.8920002 38 8 37.108 8 36 z "
+     id="path4443" />
+  <path
+     style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new;opacity:0.3"
+     d="M 27.980469 16.40625 A 12 12 0 0 1 16 28 A 12 12 0 0 1 4.0195312 16.59375 A 12 12 0 0 0 4 17 A 12 12 0 0 0 16 29 A 12 12 0 0 0 28 17 A 12 12 0 0 0 27.980469 16.40625 z "
+     id="circle4448" />
 </svg>

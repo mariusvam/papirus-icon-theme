@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="841"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="3.9150399"
+     inkscape:zoom="12.239653"
+     inkscape:cx="13.940836"
      inkscape:cy="19.640344"
      inkscape:window-x="-4"
-     inkscape:window-y="33"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -8715,26 +8715,6 @@
      transform="translate(167.19484,-651.2514)" />
   <rect
      transform="matrix(0,-1,-1,0,0,0)"
-     style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4560"
-     width="28"
-     height="28"
-     x="-31"
-     y="-30"
-     rx="14"
-     ry="14" />
-  <rect
-     ry="14"
-     rx="14"
-     y="-30"
-     x="-31"
-     height="28"
-     width="28"
-     id="rect4558"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0,-1,-1,0,0,0)" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
      style="fill:#6573c3;fill-opacity:1;stroke:none"
      id="rect4255-5"
      width="28"
@@ -9707,5 +9687,10 @@
      style="opacity:1;fill:#e3dfe8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 12.63715,10.000126 A 0.62500672,0.66669671 0 0 0 12,10.666756 l 0,10.666081 a 0.62500672,0.66669671 0 0 0 0.934975,0.579395 l 8.74922,-5.33304 a 0.62500672,0.66669671 0 0 0 0,-1.158791 L 12.934975,10.08736 A 0.62500672,0.66669671 0 0 0 12.63715,10.00013 Z"
      id="path4453"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 2.0253906,15.5 C 2.0195214,15.66736 2,15.831158 2,16 c 0,7.756 6.244,14 14,14 7.756,0 14,-6.244 14,-14 0,-0.168842 -0.01952,-0.33264 -0.02539,-0.5 C 29.710867,23.020568 23.587158,29 16,29 8.4128418,29 2.2891326,23.020568 2.0253906,15.5 Z"
+     id="rect4558"
      inkscape:connector-curvature="0" />
 </svg>

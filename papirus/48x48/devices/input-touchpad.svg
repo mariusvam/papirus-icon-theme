@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="29.02832"
+     inkscape:zoom="8.6599296"
+     inkscape:cx="6.1953884"
      inkscape:cy="27.390138"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -263,34 +263,19 @@
        id="radialGradient2801-3" />
   </defs>
   <rect
-     ry="2"
-     rx="2"
-     y="-180"
-     x="-281"
-     height="40"
-     width="40"
-     id="rect4371"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;"
-     transform="matrix(0,-1,-1,0,-136,-237)" />
-  <rect
      transform="matrix(0,-1,-1,0,0,0)"
      style="fill:#919191;fill-opacity:1;stroke:none"
      id="rect4203"
      width="40"
      height="40"
-     x="-43"
+     x="-44"
      y="-44"
      rx="2"
      ry="2" />
   <path
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 6,3 C 4.892,3 4,3.892 4,5 L 4,6 C 4,4.892 4.892,4 6,4 l 36,0 c 1.108,0 2,0.892 2,2 L 44,5 C 44,3.892 43.108,3 42,3 L 6,3 Z"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,7 C 4,5.892 4.892,5 6,5 l 36,0 c 1.108,0 2,0.892 2,2 L 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"
      id="rect4592"
-     inkscape:connector-curvature="0" />
-  <path
-     id="path4597"
-     d="M 6,43 C 4.892,43 4,42.108 4,41 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,43 Z"
-     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0" />
   <rect
      style="opacity:1;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -298,27 +283,27 @@
      width="18"
      height="10"
      x="5"
-     y="31"
+     y="32"
      rx="2"
      ry="2" />
   <rect
      ry="2"
      rx="2"
-     y="31"
+     y="32"
      x="25"
      height="10"
      width="18"
      id="rect4188"
-     style="opacity:0.99999999;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="opacity:1;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4190"
      width="6"
      height="1"
      x="37"
-     y="9" />
+     y="10" />
   <rect
-     y="12"
+     y="13"
      x="37"
      height="1"
      width="6"
@@ -330,9 +315,9 @@
      width="6"
      height="1"
      x="37"
-     y="15" />
+     y="16" />
   <rect
-     y="18"
+     y="19"
      x="37"
      height="1"
      width="6"
@@ -344,12 +329,16 @@
      width="6"
      height="1"
      x="37"
-     y="21" />
+     y="22" />
   <rect
-     y="24"
+     y="25"
      x="37"
      height="1"
      width="6"
      id="rect4208"
      style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="M 4 41 L 4 42 C 4 43.108 4.892 44 6 44 L 42 44 C 43.108 44 44 43.108 44 42 L 44 41 C 44 42.108 43.108 43 42 43 L 6 43 C 4.892 43 4 42.108 4 41 z "
+     id="rect4182" />
 </svg>

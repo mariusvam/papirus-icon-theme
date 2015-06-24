@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="33.334218"
-     inkscape:cy="26.856468"
+     inkscape:zoom="11.42"
+     inkscape:cx="34.242574"
+     inkscape:cy="25.169227"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4295"
      showguides="false" />
@@ -769,12 +769,6 @@
   <g
      id="g4295">
     <path
-       sodipodi:nodetypes="ccccccccc"
-       style="opacity:0.5;fill:#000000;fill-opacity:1"
-       d="m 24,29 -8.5,4.3 -3.5,-1.2 0,5.4 12,7.5 12,-7.5 0,-4.8 -3.5,2.2 z"
-       id="path4405"
-       inkscape:connector-curvature="0" />
-    <path
        inkscape:connector-curvature="0"
        id="polygon3877"
        d="m 24,28 -8.5,4.3 -3.5,-1.2 0,5.4 12,7.5 12,-7.5 0,-4.8 -3.5,2.2 z"
@@ -813,6 +807,14 @@
     <g
        id="g4400"
        style="fill:#99cff8;fill-opacity:1"
+       transform="translate(0,1)" />
+    <path
+       style="fill:#000000;fill-opacity:1;opacity:0.3"
+       d="M 12 35.5 L 12 36.5 L 24 44 L 36 36.5 L 36 35.5 L 24 43 L 12 35.5 z "
+       id="path4267" />
+    <g
+       id="g4276"
+       style="fill:#909090;fill-opacity:1"
        transform="translate(0,1)" />
   </g>
 </svg>

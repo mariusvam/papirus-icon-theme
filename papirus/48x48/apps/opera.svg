@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="12.239653"
-     inkscape:cx="17.874264"
+     inkscape:cx="27.443063"
      inkscape:cy="24.27436"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -723,11 +723,6 @@
     </clipPath>
   </defs>
   <path
-     id="path4275"
-     d="M 24,5 A 20,20 0 0 0 4,25 20,20 0 0 0 24,45 20,20 0 0 0 44,25 20,20 0 0 0 24,5 Z m 0,8 a 9,12 0 0 1 9,12 9,12 0 0 1 -9,12 9,12 0 0 1 -9,-12 9,12 0 0 1 9,-12 z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-     inkscape:connector-curvature="0" />
-  <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
      d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 24 44 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z M 24 12 A 9 12 0 0 1 33 24 A 9 12 0 0 1 24 36 A 9 12 0 0 1 15 24 A 9 12 0 0 1 24 12 z "
      id="path4230" />
@@ -751,4 +746,9 @@
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:0.2"
      d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 4.0214844 24.417969 A 20 20 0 0 1 24 5 A 20 20 0 0 1 43.978516 24.582031 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z M 32.984375 24.423828 A 9 12 0 0 1 24 36 A 9 12 0 0 1 15.015625 24.576172 A 9 12 0 0 0 15 25 A 9 12 0 0 0 24 37 A 9 12 0 0 0 33 25 A 9 12 0 0 0 32.984375 24.423828 z "
      id="path4270" />
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+     d="m 24,11 a 9,12 0 0 0 -9,12 9,12 0 0 0 0.01563,0.576172 A 9,12 0 0 1 24,12 9,12 0 0 1 32.984375,23.423828 9,12 0 0 0 33,23 9,12 0 0 0 24,11 Z M 4.0214844,23.417969 A 20,20 0 0 0 4,24 20,20 0 0 0 24,44 20,20 0 0 0 44,24 20,20 0 0 0 43.978516,23.582031 20,20 0 0 1 24,43 20,20 0 0 1 4.0214844,23.417969 Z"
+     id="path4275"
+     inkscape:connector-curvature="0" />
 </svg>

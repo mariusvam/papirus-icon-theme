@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="17.325409"
+     inkscape:zoom="14.06"
+     inkscape:cx="29.819629"
      inkscape:cy="26.919385"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817"
      showguides="false" />
@@ -2645,16 +2645,6 @@
        y="-1449.4517"
        id="tspan4089-7-2-9-9-28-4" /></text>
   <rect
-     ry="20"
-     rx="20"
-     y="-44"
-     x="-45"
-     height="40"
-     width="40"
-     id="rect4849"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
-     transform="matrix(0,-1,-1,0,0,0)" />
-  <rect
      transform="matrix(0,-1,-1,0,0,0)"
      style="fill:#ffc947;fill-opacity:1;stroke:none"
      id="rect4203"
@@ -2681,4 +2671,9 @@
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 24 11 A 13 13 0 0 0 11.648438 20 L 9 20 L 8 23 L 8.3339844 23 L 9 21 L 11.648438 21 A 13 13 0 0 1 24 12 A 13 13 0 0 1 33.361328 16 L 34.228516 16 A 13 13 0 0 0 24 11 z M 15.351562 20 A 10 10 0 0 0 14.839844 21 L 29.666016 21 L 30 20 L 15.351562 20 z M 11 24 A 13 13 0 0 0 11.023438 24.46875 A 13 13 0 0 1 11.042969 24 L 11 24 z M 14.027344 24.457031 A 10 10 0 0 0 14 25 A 10 10 0 0 0 14.060547 26 L 28.666016 26 L 29 25 L 14.060547 25 A 10 10 0 0 1 14.027344 24.457031 z M 10 25 L 9 28 L 9.3339844 28 L 10 26 L 11.048828 26 A 13 13 0 0 1 11 25 L 10 25 z M 14.847656 29 A 10 10 0 0 0 24 35 A 10 10 0 0 0 29.984375 33 L 33.371094 33 A 13 13 0 0 0 34.240234 32 L 29.984375 32 A 10 10 0 0 1 24 34 A 10 10 0 0 1 15.367188 29 L 14.847656 29 z "
      id="path4713" />
+  <path
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 4.0117188,23.5 C 4.007647,23.666859 4,23.832126 4,24 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 0,-0.167874 -0.0076,-0.333141 -0.01172,-0.5 C 43.72361,34.346137 34.912126,43 24,43 13.087874,43 4.2763904,34.346137 4.0117188,23.5 Z"
+     id="rect4849"
+     inkscape:connector-curvature="0" />
 </svg>

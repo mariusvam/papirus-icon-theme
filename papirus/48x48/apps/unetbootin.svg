@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="10.66"
-     inkscape:cx="-3.9530955"
-     inkscape:cy="27.437952"
+     inkscape:zoom="14.06"
+     inkscape:cx="17.294559"
+     inkscape:cy="21.748052"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817"
      showguides="false" />
@@ -286,11 +286,6 @@
          style="fill:#e1e1e1;fill-opacity:1;stroke:none" />
     </clipPath>
   </defs>
-  <path
-     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
-     d="m 12.687505,4.9999948 c -2.043314,0 -3.6875,1.6778713 -3.6875,3.7636723 l 0,22.4707029 c 0,2.085801 1.644186,3.765625 3.6875,3.765625 l -0.6875,0 0,10 6,0 6,0 0,-3.072266 a 12,12 0 0 0 8,3.072266 12,12 0 0 0 12,-12 12,12 0 0 0 -12,-12 12,12 0 0 0 -5,1.105469 l 0,-13.3417969 c 0,-2.085801 -1.646139,-3.7636723 -3.689453,-3.7636723 l -10.623047,0 z"
-     id="rect4251"
-     inkscape:connector-curvature="0" />
   <rect
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
      y="34.000004"
@@ -374,4 +369,9 @@
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;opacity:0.1"
      d="M 12.6875 4 C 10.644186 4 9 5.6798239 9 7.765625 L 9 8.765625 C 9 6.6798239 10.644186 5 12.6875 5 L 23.3125 5 C 25.355814 5 27 6.6798239 27 8.765625 L 27 7.765625 C 27 5.6798239 25.355814 4 23.3125 4 L 12.6875 4 z "
      id="path4232" />
+  <path
+     style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     d="m 9,29.23437 0,1 c 0,1.844923 1.288885,3.367159 3,3.695313 l 0,-0.929688 0.6875,0 C 10.644186,32.999995 9,31.320171 9,29.23437 Z m 34.980469,2.359375 A 12,12 0 0 1 32,42.999995 12,12 0 0 1 24,39.927729 l 0,1 a 12,12 0 0 0 8,3.072266 12,12 0 0 0 12,-12 12,12 0 0 0 -0.01953,-0.40625 z M 12,42.999995 l 0,1 6,0 6,0 0,-1 -6,0 -6,0 z"
+     id="rect4251"
+     inkscape:connector-curvature="0" />
 </svg>

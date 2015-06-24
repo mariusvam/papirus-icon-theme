@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="24.294304"
-     inkscape:cy="20.618036"
+     inkscape:zoom="17.31"
+     inkscape:cx="25.598329"
+     inkscape:cy="13.685627"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817"
      showguides="true">
@@ -1507,7 +1507,7 @@
      transform="matrix(0.25929471,0.9663989,-0.96657336,0.25864363,30.342204,-13.55602)" />
   <path
      style="opacity:1;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.77744758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.42857146;stroke-dasharray:none;stroke-opacity:1"
-     d="m 19,21 10,0 c 1.108,0 2.164361,0.904259 2,2 l -3,20 c -0.164361,1.095741 -0.892,2 -2,2 l -5,0 c -1.108,0 -1.88975,-0.897499 -2,-2 L 17,23 c -0.11025,-1.102501 0.892,-2 2,-2 z"
+     d="m 19,21 10,0 c 1.108,0 2.11025,0.897499 2,2 l -2,20 c -0.11025,1.102501 -0.892,2 -2,2 l -6,0 c -1.108,0 -1.88975,-0.897499 -2,-2 L 17,23 c -0.11025,-1.102501 0.892,-2 2,-2 z"
      id="rect4449"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />

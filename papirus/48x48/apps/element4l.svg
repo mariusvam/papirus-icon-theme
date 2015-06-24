@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="841"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="8.08"
-     inkscape:cx="-35.435644"
-     inkscape:cy="19.84646"
+     inkscape:zoom="11.42"
+     inkscape:cx="28.531202"
+     inkscape:cy="23.349087"
      inkscape:window-x="-4"
-     inkscape:window-y="33"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817"
      showguides="false" />
@@ -1551,91 +1551,85 @@
   <g
      transform="matrix(0.9047486,0,0,0.9047486,-220.03848,-0.23077627)"
      id="layer1-3" />
-  <rect
-     ry="2"
-     rx="2"
-     y="-180"
-     x="-281"
-     height="40"
-     width="40"
-     id="rect4371"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;"
-     transform="matrix(0,-1,-1,0,-136,-237)" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     style="fill:#b0e8fb;fill-opacity:1;stroke:none"
-     id="rect4203-1"
-     width="40"
-     height="40"
-     x="-43"
-     y="-44"
-     rx="2"
-     ry="2" />
   <g
-     id="g4498"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+     id="g4461"
      transform="translate(0,1)">
+    <rect
+       ry="2"
+       rx="2"
+       y="-44"
+       x="-43"
+       height="40"
+       width="40"
+       id="rect4203-1"
+       style="fill:#b0e8fb;fill-opacity:1;stroke:none"
+       transform="matrix(0,-1,-1,0,0,0)" />
+    <g
+       transform="translate(0,1)"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+       id="g4498">
+      <circle
+         r="4"
+         cy="22"
+         cx="10"
+         id="circle4500"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="circle4502"
+         cx="34"
+         cy="22"
+         r="4" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4504"
+         d="M 29,26.788335 C 29,28.562088 25.865993,30 22,30 c -3.865993,0 -7,-1.437912 -7,-3.211665 0,-1.773754 3.134007,0 7,0 3.865993,0 7,-1.773754 7,0 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4592"
+       d="M 6,3 C 4.892,3 4,3.892 4,5 L 4,6 C 4,4.892 4.892,4 6,4 l 36,0 c 1.108,0 2,0.892 2,2 L 44,5 C 44,3.892 43.108,3 42,3 L 6,3 Z"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 6,43 C 4.892,43 4,42.108 4,41 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,43 Z"
+       id="path4597" />
+    <g
+       style="fill:#59aacc;fill-opacity:1"
+       id="g4493">
+      <circle
+         style="opacity:1;fill:#59aacc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="path4453"
+         cx="10"
+         cy="22"
+         r="4" />
+      <circle
+         r="4"
+         cy="22"
+         cx="34"
+         id="circle4463"
+         style="opacity:1;fill:#59aacc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#59aacc;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="M 29,26.788335 C 29,28.562088 25.865993,30 22,30 c -3.865993,0 -7,-1.437912 -7,-3.211665 0,-1.773754 3.134007,0 7,0 3.865993,0 7,-1.773754 7,0 z"
+         id="path4467"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4500"
-       cx="10"
-       cy="22"
-       r="4" />
+       id="circle4455"
+       cx="12"
+       cy="21"
+       r="1" />
     <circle
-       r="4"
-       cy="22"
-       cx="34"
-       id="circle4502"
+       r="1"
+       cy="21"
+       cx="36"
+       id="circle4465"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       d="M 29,26.788335 C 29,28.562088 25.865993,30 22,30 c -3.865993,0 -7,-1.437912 -7,-3.211665 0,-1.773754 3.134007,0 7,0 3.865993,0 7,-1.773754 7,0 z"
-       id="path4504"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssss" />
   </g>
-  <path
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 6,3 C 4.892,3 4,3.892 4,5 L 4,6 C 4,4.892 4.892,4 6,4 l 36,0 c 1.108,0 2,0.892 2,2 L 44,5 C 44,3.892 43.108,3 42,3 L 6,3 Z"
-     id="rect4592"
-     inkscape:connector-curvature="0" />
-  <path
-     id="path4597"
-     d="M 6,43 C 4.892,43 4,42.108 4,41 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,43 Z"
-     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
-     inkscape:connector-curvature="0" />
-  <g
-     id="g4493"
-     style="fill:#59aacc;fill-opacity:1">
-    <circle
-       r="4"
-       cy="22"
-       cx="10"
-       id="path4453"
-       style="opacity:1;fill:#59aacc;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#59aacc;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="circle4463"
-       cx="34"
-       cy="22"
-       r="4" />
-    <path
-       sodipodi:nodetypes="sssss"
-       inkscape:connector-curvature="0"
-       id="path4467"
-       d="M 29,26.788335 C 29,28.562088 25.865993,30 22,30 c -3.865993,0 -7,-1.437912 -7,-3.211665 0,-1.773754 3.134007,0 7,0 3.865993,0 7,-1.773754 7,0 z"
-       style="opacity:1;fill:#59aacc;fill-opacity:1;stroke:none;stroke-opacity:1" />
-  </g>
-  <circle
-     r="1"
-     cy="21"
-     cx="12"
-     id="circle4455"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
-  <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-     id="circle4465"
-     cx="36"
-     cy="21"
-     r="1" />
 </svg>

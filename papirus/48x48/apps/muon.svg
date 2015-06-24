@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="7.46"
-     inkscape:cx="-12.059418"
+     inkscape:zoom="9.18"
+     inkscape:cx="24.642222"
      inkscape:cy="24"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -246,49 +246,48 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <rect
-     ry="2"
-     rx="2"
-     y="-180"
-     x="-280"
-     height="40"
-     width="40"
-     id="rect3289"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;"
-     transform="matrix(0,-1,-1,0,-136,-236)" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     style="fill:#fabd7f;fill-opacity:1;stroke:none"
-     id="rect4203"
-     width="40"
-     height="40"
-     x="-43"
-     y="-44"
-     rx="2"
-     ry="2" />
-  <path
-     id="path4068"
-     d="M 4,6 4,5 C 4,3.892 4.892,3 6,3 l 36,0 c 1.108,0 2,0.892 2,2 l 0,1 C 44,4.892 43.108,4 42,4 L 6,4 C 4.892,4 4,4.892 4,6 Z"
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
-     inkscape:connector-curvature="0" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path3937"
-     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 17,28 7,9 7,-9 -4,0 0,1 c 0,0.554 -0.446,1 -1,1 l -4,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-1 -4,0 z m 5,-17 4,0 c 0.554,0 1,0.446 1,1 l 0,17 c 0,0.554 -0.446,1 -1,1 l -4,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-17 c 0,-0.554 0.446,-1 1,-1 z" />
-  <path
-     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
-     d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,23 44,23 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"
-     id="path4009"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 4,23 20,20 18,0 c 1.108,0 2,-0.892 2,-2 L 44,23 4,23 Z"
-     id="path4038"
-     inkscape:connector-curvature="0" />
-  <path
-     id="path4026"
-     d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,23 44,23 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"
-     style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
-     inkscape:connector-curvature="0" />
+  <g
+     id="g4182"
+     transform="translate(0,1)">
+    <rect
+       ry="2"
+       rx="2"
+       y="-44"
+       x="-43"
+       height="40"
+       width="40"
+       id="rect4203"
+       style="fill:#fabd7f;fill-opacity:1;stroke:none"
+       transform="matrix(0,-1,-1,0,0,0)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M 4,6 4,5 C 4,3.892 4.892,3 6,3 l 36,0 c 1.108,0 2,0.892 2,2 l 0,1 C 44,4.892 43.108,4 42,4 L 6,4 C 4.892,4 4,4.892 4,6 Z"
+       id="path4068" />
+    <path
+       d="m 17,28 7,9 7,-9 -4,0 0,1 c 0,0.554 -0.446,1 -1,1 l -4,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-1 -4,0 z m 5,-17 4,0 c 0.554,0 1,0.446 1,1 l 0,17 c 0,0.554 -0.446,1 -1,1 l -4,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-17 c 0,-0.554 0.446,-1 1,-1 z"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3937"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4009"
+       d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,23 44,23 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4038"
+       d="m 4,23 20,20 18,0 c 1.108,0 2,-0.892 2,-2 L 44,23 4,23 Z"
+       style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 6,4 C 4.892,4 4,4.892 4,6 L 4,23 44,23 44,6 C 44,4.892 43.108,4 42,4 L 6,4 Z"
+       id="path4026" />
+    <path
+       id="rect4177"
+       d="m 4,40 0,1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,42 C 4.892,42 4,41.108 4,40 Z"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

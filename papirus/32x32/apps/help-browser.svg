@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="841"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="4.98"
-     inkscape:cx="19.502901"
+     inkscape:zoom="15.07"
+     inkscape:cx="13.536131"
      inkscape:cy="16.929482"
      inkscape:window-x="-4"
-     inkscape:window-y="33"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -1458,11 +1458,6 @@
        id="g4530" />
   </g>
   <path
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 24.857422,1.6050176 c -0.09243,-0.00954 -0.187574,-0.00759 -0.285156,0.00781 L 16,2.9663458 l 0,0.033203 -9.6269531,0 C 5.6123179,2.9995489 5,3.6012583 5,4.3491583 L 5,28.64994 c 0,0.7479 0.6123179,1.349609 1.3730469,1.349609 l 9.6269531,0 0,0.0332 8.572266,1.353516 C 25.352923,31.509519 26,30.78248 26,30.032752 l 0,-0.08984 c 0.576848,-0.160032 1,-0.673289 1,-1.292968 L 27,4.3491583 C 27,3.7294793 26.576848,3.2162215 26,3.0561895 l 0,-0.089844 C 26,2.3103351 25.504416,1.6718172 24.857422,1.6050176 Z"
-     id="path4628"
-     inkscape:connector-curvature="0" />
-  <path
      style="fill:#4a68e4;fill-opacity:1;stroke:none"
      d="M 6.373047,2 C 5.612318,2 5,2.6024766 5,3.3503766 L 5,27.649623 C 5,28.397523 5.612318,29 6.373047,29 L 16,29 25.626953,29 C 26.387682,29 27,28.397523 27,27.649623 L 27,3.3503766 C 27,2.6024766 26.387682,2 25.626953,2 L 16,2 6.373047,2 Z"
      id="path4540"
@@ -1494,4 +1489,9 @@
      id="path4-7"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccscccccccc" />
+  <path
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 5,26.649939 0,1 c 0,0.7479 0.6123179,1.349609 1.3730469,1.349609 l 9.6269531,0 0,0.0332 8.572266,1.353516 C 25.352923,30.509521 26,29.782479 26,29.032751 l 0,-0.08984 c 0.576848,-0.160032 1,-0.673289 1,-1.292968 l 0,-1 c 0,0.619679 -0.423152,1.132936 -1,1.292968 l 0,0.08984 c 0,0.749728 -0.647077,1.47677 -1.427734,1.353516 L 16,28.032751 l 0,-0.0332 -9.6269531,0 C 5.6123179,27.999548 5,27.397839 5,26.649939 Z"
+     id="path4628"
+     inkscape:connector-curvature="0" />
 </svg>

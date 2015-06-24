@@ -680,7 +680,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.28"
-     inkscape:cx="22.885206"
+     inkscape:cx="4.5662405"
      inkscape:cy="29.728166"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -690,9 +690,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -781,7 +781,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1761,7 +1761,7 @@
          y="-950.22827"
          id="tspan4089-7-2-9-9-28" /></text>
     <path
-       style="opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 408.57143,503.798 c 11.06988,0 19.98173,8.92 19.98173,20 0,0.16787 -0.008,0.33314 -0.0117,0.5 -0.26445,-10.84614 -9.06788,-19.5 -19.97004,-19.5 -10.90217,0 -19.7056,8.65386 -19.97003,19.5 -0.004,-0.16686 -0.0117,-0.33213 -0.0117,-0.5 0,-11.08 8.91185,-20 19.98173,-20 z"
        id="path4432"
        inkscape:connector-curvature="0"
@@ -2696,5 +2696,10 @@
          x="1906.8757"
          y="-945.2627"
          id="tspan4089-7-2-9-9-28-3" /></text>
+    <path
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
+       d="M 4.0117188 23.5 C 4.0076623 23.666545 4 23.832443 4 24 C 4 35.079988 12.920012 44 24 44 C 35.079988 44 44 35.079988 44 24 C 44 23.832443 43.992338 23.666545 43.988281 23.5 C 43.724099 34.346568 34.912432 43 24 43 C 13.087568 43 4.2759006 34.346568 4.0117188 23.5 z "
+       transform="translate(384.57143,499.798)"
+       id="rect4688" />
   </g>
 </svg>

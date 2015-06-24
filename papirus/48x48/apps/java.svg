@@ -14,7 +14,7 @@
    height="48"
    width="48"
    version="1.0"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="java.svg">
   <metadata
      id="metadata57">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="846"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="41.3125"
+     inkscape:zoom="8.6599296"
+     inkscape:cx="13.979407"
      inkscape:cy="24.27436"
      inkscape:window-x="-4"
-     inkscape:window-y="30"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -734,12 +734,6 @@
     </linearGradient>
   </defs>
   <circle
-     r="20"
-     cy="25"
-     cx="24"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-     id="circle4330" />
-  <circle
      id="path4230"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
      cx="24"
@@ -762,7 +756,7 @@
      cy="26"
      r="10" />
   <path
-     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 24,4 C 12.920985,4 4.0017774,12.92 4.0017774,24 c 0,0.16772 -0.004,0.33329 0,0.5 C 4.2661939,13.65365 13.08869,5 24,5 c 10.91131,0 19.733806,8.65365 19.998223,19.5 0.004,-0.16671 0,-0.33228 0,-0.5 C 43.998223,12.92 35.079015,4 24,4 Z"
      id="rect3436"
      inkscape:connector-curvature="0" />
@@ -860,4 +854,8 @@
          id="path3908" />
     </g>
   </g>
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:0.3"
+     d="M 43.978516 23.417969 A 20 20 0 0 1 24 43 A 20 20 0 0 1 4.0214844 23.582031 A 20 20 0 0 0 4 24 A 20 20 0 0 0 24 44 A 20 20 0 0 0 44 24 A 20 20 0 0 0 43.978516 23.417969 z "
+     id="circle4276" />
 </svg>

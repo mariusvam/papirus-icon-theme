@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="841"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="15.07"
-     inkscape:cx="14.835206"
+     inkscape:cx="3.5545159"
      inkscape:cy="14.649377"
      inkscape:window-x="-4"
-     inkscape:window-y="33"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -2597,4 +2597,8 @@
   <g
      transform="matrix(0.9047486,0,0,0.9047486,-288.46059,-23.082535)"
      id="layer1-3-9" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.3"
+     d="M 5 27.5 L 5 28.5 C 5 29.331 5.669 30 6.5 30 L 25.5 30 C 26.331 30 27 29.331 27 28.5 L 27 27.5 C 27 28.331 26.331 29 25.5 29 L 6.5 29 C 5.669 29 5 28.331 5 27.5 z "
+     id="path4663" />
 </svg>

@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="11.42"
-     inkscape:cx="13.162872"
+     inkscape:cx="-1.7232926"
      inkscape:cy="19.211244"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -302,7 +302,7 @@
   <path
      id="path4262"
      d="M 6,40 C 4.892,40 4,39.108 4,38 l 0,-1 c 0,1.108 0.892,2 2,2 l 36,0 c 1.108,0 2,-0.892 2,-2 l 0,1 c 0,1.108 -0.892,2 -2,2 L 6,40 Z"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      style="opacity:0.2;fill:url(#linearGradient4343);fill-opacity:1;stroke:none"

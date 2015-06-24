@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +39,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="17.31"
-     inkscape:cx="20.170417"
+     inkscape:cx="10.349504"
      inkscape:cy="18.746634"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817"
      showguides="false" />
@@ -2933,7 +2933,7 @@
      d="M 16 3 C 15.667671 3 15.334726 3.1281647 15.080078 3.3828125 L 3.3828125 15.080078 C 2.997583 15.465308 2.9040194 16.028156 3.1015625 16.5 C 3.1651828 16.348039 3.2587464 16.204144 3.3828125 16.080078 L 15.080078 4.3828125 C 15.589374 3.8735168 16.410626 3.8735168 16.919922 4.3828125 L 28.617188 16.080078 C 28.741254 16.204144 28.834817 16.348039 28.898438 16.5 C 29.095981 16.028156 29.002417 15.465308 28.617188 15.080078 L 16.919922 3.3828125 C 16.665274 3.1281647 16.332329 3 16 3 z "
      id="rect4863" />
   <path
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 3.1015625 15.5 C 2.9040194 15.971844 2.997583 16.534692 3.3828125 16.919922 L 15.080078 28.617188 C 15.589374 29.126483 16.410626 29.126483 16.919922 28.617188 L 28.617188 16.919922 C 29.002417 16.534692 29.095981 15.971844 28.898438 15.5 C 28.834817 15.651961 28.741254 15.795856 28.617188 15.919922 L 16.919922 27.617188 C 16.410626 28.126483 15.589374 28.126483 15.080078 27.617188 L 3.3828125 15.919922 C 3.2587464 15.795856 3.1651828 15.651961 3.1015625 15.5 z "
      id="rect4868" />
 </svg>

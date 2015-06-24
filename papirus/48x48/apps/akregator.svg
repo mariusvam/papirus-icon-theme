@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="842"
+     inkscape:window-height="840"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="15.07"
-     inkscape:cx="17.306527"
+     inkscape:zoom="4.3299648"
+     inkscape:cx="6.0258369"
      inkscape:cy="21.036481"
      inkscape:window-x="-4"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2817" />
   <defs
@@ -2653,28 +2653,6 @@
   <g
      id="g5331" />
   <g
-     id="g4700"
-     style="opacity:0.5;fill:#000000;fill-opacity:1"
-     transform="translate(0,1)">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 5,5 0,7 7,0 c 12.631189,0 24,11.368805 24,24 l 0,7 7,0 0,-7 C 43,19.158412 28.841588,5 12,5 Z"
-       id="path4702"
-       sodipodi:nodetypes="ccssccssc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="m 5,20 0,7 7,0 c 4.247325,0 9,4.752675 9,9 l 0,7 7,0 0,-7 C 28,27.505332 20.494655,20 12,20 Z"
-       id="path4704"
-       sodipodi:nodetypes="ccssccssc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       d="M 9.5,34 C 7.0069921,34 5,36.006992 5,38.5 5,40.993006 7.0069921,43 9.5,43 11.992995,43 14,40.993006 14,38.5 14,36.006992 11.992995,34 9.5,34 Z"
-       id="path4706" />
-  </g>
-  <g
      id="g4696">
     <path
        sodipodi:nodetypes="ccssccssc"
@@ -2709,4 +2687,16 @@
      id="g4695"
      transform="translate(0,1)"
      style="fill:#000000;fill-opacity:1" />
+  <g
+     id="g4687"
+     style="fill:#000000;fill-opacity:1;opacity:0.3">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 5 11 L 5 12 L 12 12 C 24.631189 12 36 23.368805 36 36 L 36 35 C 36 22.368805 24.631189 11 12 11 L 5 11 z M 5 26 L 5 27 L 12 27 C 16.247325 27 21 31.752675 21 36 L 21 35 C 21 30.752675 16.247325 26 12 26 L 5 26 z M 5.0507812 38 C 5.0322657 38.166471 5 38.32843 5 38.5 C 5 40.993006 7.0069921 43 9.5 43 C 11.992995 43 14 40.993006 14 38.5 C 14 38.32843 13.967734 38.166471 13.949219 38 C 13.698692 40.252436 11.821426 42 9.5 42 C 7.1785623 42 5.3013066 40.252436 5.0507812 38 z M 21 42 L 21 43 L 28 43 L 28 42 L 21 42 z M 36 42 L 36 43 L 43 43 L 43 42 L 36 42 z "
+       id="path4689" />
+  </g>
+  <g
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
+     id="g4697"
+     transform="translate(0,-1)" />
 </svg>
