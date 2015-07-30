@@ -181,10 +181,3 @@ Size=16
 MinSize=16
 MaxSize=32
 Type=Scalable
-
-[16x16/extra/amarok]
-Context=Actions
-Size=16
-MinSize=8
-MaxSize=512
-Type=Scalable
