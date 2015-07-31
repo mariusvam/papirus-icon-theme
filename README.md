@@ -10,7 +10,15 @@ Open `System Settings - Icons - Advanced` and set size 16x16.
 
 ![Screenshot settings](settings.png)
 
-# Install
+# Install Kubuntu 15.04
+```
+sudo add-apt-repository ppa:varlesh-l/papirus-pack
+sudo apt-get update
+sudo apt-get install papirus-icon-theme
+#Optional
+sudo apt-get install papirus-plasma-theme papirus-gtk-theme papirus-yakuake-theme papirus-bomi-theme
+```
+# Install for other KDE distros
 ```
 cd /tmp
 git clone https://github.com/varlesh/papirus-icon-theme.git
