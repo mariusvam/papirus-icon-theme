@@ -18,6 +18,10 @@ sudo apt-get install papirus-icon-theme
 #Optional
 sudo apt-get install papirus-plasma-theme papirus-gtk-theme papirus-yakuake-theme papirus-bomi-theme
 ```
+# Install Arch Linux
+```
+yaourt -S papirus-icon-theme
+```
 # Install for other KDE distros
 ```
 cd /tmp
