@@ -10,7 +10,7 @@ Open `System Settings - Icons - Advanced` and set size 16x16.
 
 ![Screenshot settings](settings.png)
 
-# Install Kubuntu 15.04
+# Install Kubuntu 15.04/15.10
 ```
 sudo add-apt-repository ppa:varlesh-l/papirus-pack
 sudo apt-get update
