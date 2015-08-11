@@ -1,7 +1,7 @@
 # Papirus icon theme
 Modified and adaptive [Paper icon theme](https://github.com/snwh/paper-icon-theme) for KDE distros.
 
-![Screenshot icons](icons.png)
+![Screenshot icons](icons-apps.png)
 
 # Recommends
 Please use 16x16 icon size for **Main toolbar**, **Toolbar** and **Panel** for best looking.
